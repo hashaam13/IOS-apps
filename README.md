@@ -6,6 +6,8 @@ We can use camera to get a picture or we can select it from library. The app wil
 ![Image 19-08-2023 at 12 13 AM](https://github.com/hashaam13/IOS-apps/assets/14867112/3ac6dfe0-5904-4da7-8f16-e935a0d94783)
 
 We can then save the prediction into a table.
+
+
 ![Screenshot 2023-08-19 at 12 21 35 AM](https://github.com/hashaam13/IOS-apps/assets/14867112/284a53c8-8cf2-42fe-808d-4fef14ff6273)
 
 
